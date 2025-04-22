@@ -1,4 +1,11 @@
-body {
+:root{
+  background-color: pink;
+  text-decoration-color: rgb(252, 249, 249);
+  text-emphasis-color: rgb(240, 40, 73);
+}
+
+
+body
   margin: 0;
   font-family: Arial, sans-serif;
   line-height: 1.6;
