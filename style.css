@@ -1,11 +1,10 @@
 :root{
-  background-color: pink;
-  text-decoration-color: rgb(252, 249, 249);
-  text-emphasis-color: rgb(240, 40, 73);
+  --cor-de-fundo: #27445D;
+  --cor-de-texto:#EFE9D5;
+  --cor-texto-dois:#71BBB2;
 }
 
-
-body
+body {
   margin: 0;
   font-family: Arial, sans-serif;
   line-height: 1.6;
